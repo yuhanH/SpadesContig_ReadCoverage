@@ -29,3 +29,6 @@ output file name: /ifs/home/spades_contig_read_coverage/demo_output/G45047 (the 
 
 R1,R2 fastq files:  /ifs/data/fastq/G45047_pe_1.fastq.gz     /ifs/data/fastq/G45047_pe_2.fastq.gz
 ## Output:
+```{bash}
+more demo_output/G45047_phage_cov.txt 
+```
