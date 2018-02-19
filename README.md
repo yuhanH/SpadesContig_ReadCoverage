@@ -1,9 +1,8 @@
-  
 # Spades Contig Read Coverage
 It is built to calculate the coverage of spades *de novo* assembly contigs by remapping raw fastq reads. SPAdes could be found http://cab.spbu.ru/software/spades/
 
 
-## Input
+## Input:
 It has six inputs.
 
 $1: spades contig fasta (the name for each sequence should be in the default format, such as NODE_1_length_461346_cov_10.9601) 
@@ -29,4 +28,4 @@ blast tabular output: /ifs/data//blast_results/G45047-contigs.fasta.blast
 output file name: /ifs/home/spades_contig_read_coverage/demo_output/G45047 (the directory __/ifs/home/spades_contig_read_coverage/demo_output/__ should be existed)
 
 R1,R2 fastq files:  /ifs/data/fastq/G45047_pe_1.fastq.gz     /ifs/data/fastq/G45047_pe_2.fastq.gz
-## Output
+## Output:
