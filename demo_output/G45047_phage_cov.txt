@@ -1,0 +1,42 @@
+ENA|KC182546|KC182546.1 Lactococcus phage jm2, complete genome. [26-MAY-2017]	5.1521
+ENA|KC182551|KC182551.1 Lactococcus phage P680, complete genome. [26-MAY-2017]	20.1515
+ENA|KC182552|KC182552.1 Lactococcus phage phi7, complete genome. [26-MAY-2017]	6.7325
+ENA|FJ965538|FJ965538.1 Streptococcus phage 5093, complete genome. [26-MAY-2017]	2.6031
+ENA|JQ740813|JQ740813.1 Lactococcus Phage ASCC532, complete genome. [26-MAY-2017]	2.0539
+ENA|KC013023|KC013023.1 Leuconostoc phage phiLN04, complete genome. [26-MAY-2017]	1.8280
+ENA|KM091443|KM091443.1 Lactococcus phage phi93, complete genome. [26-MAY-2017]	13.2060
+ENA|KC182549|KC182549.1 Lactococcus lactis phage p272, complete genome. [26-MAY-2017]	7.2757
+ENA|JQ740789|JQ740789.1 Lactococcus Phage ASCC281, complete genome. [26-MAY-2017]	4.6431
+ENA|JQ740788|JQ740788.1 Lactococcus Phage ASCC273, complete genome. [26-MAY-2017]	13.8668
+ENA|DQ227763|DQ227763.1 Lactococcus phage 712, complete genome. [26-MAY-2017]	6.7043
+ENA|KC182543|KC182543.1 Lactococcus lactis phage 645, complete genome. [13-NOV-2015]	12.8757
+ENA|EF583821|EF583821.1 Bacillus phage 0305phi8-36, complete genome. [26-MAY-2017]	2.9706
+ENA|JQ740804|JQ740804.1 Lactococcus Phage ASCC465, complete genome. [26-MAY-2017]	7.9581
+ENA|EU221285|EU221285.1 Lactococcus phage bIBB29, complete genome. [26-MAY-2017]	12.8706
+ENA|KM091444|KM091444.1 Lactococcus phage phi145, complete genome. [26-MAY-2017]	8.6213
+ENA|AF009630|AF009630.1 Bacteriophage bIL170, complete genome. [26-MAY-2017]	6.7909
+ENA|AF323669|AF323669.1 Bacteriophage bIL286, complete genome. [26-MAY-2017]	4.7985
+ENA|DQ054536|DQ054536.1 Lactococcus phage P008, complete genome. [26-MAY-2017]	10.4946
+ENA|FJ848884|FJ848884.1 Lactococcus phage CB19, complete genome. [26-MAY-2017]	6.8174
+ENA|AF109874|AF109874.2 Bacteriophage Tuc2009, complete genome. [26-MAY-2017]	3.6506
+ENA|KC182542|KC182542.1 Lactococcus phage 340, complete genome. [13-NOV-2015]	5.3728
+ENA|CP002889|CP002889.1 Streptococcus phage YMC-2011, complete genome. [26-MAY-2017]	1.9147
+ENA|KC182547|KC182547.1 Lactococcus phage jm3, complete genome. [13-NOV-2015]	6.1836
+ENA|FJ848882|FJ848882.1 Lactococcus phage CB13, complete genome. [26-MAY-2017]	32.2673
+ENA|JN699628|JN699628.1 Mycobacterium phage Bongo, complete genome. [26-MAY-2017]	3.5174
+ENA|KM091442|KM091442.1 Lactococcus phage phi15, complete genome. [26-MAY-2017]	7.5843
+ENA|KC182544|KC182544.1 Lactococcus phage 936, complete genome. [26-MAY-2017]	9.3031
+ENA|FJ848885|FJ848885.1 Lactococcus phage CB20, complete genome. [26-MAY-2017]	20.4143
+ENA|FJ848881|FJ848881.1 Lactococcus phage SL4, complete genome. [26-MAY-2017]	28.3647
+ENA|KM882824|KM882824.1 Streptococcus phage SpSL1, complete genome. [26-MAY-2017]	4.2000
+ENA|JQ740787|JQ740787.1 Lactococcus Phage ASCC191, complete genome. [26-MAY-2017]	6.3513
+ENA|KF676640|KF676640.1 Lactococcus phage SK1833, complete genome. [26-MAY-2017]	10.7813
+ENA|AF115102|AF115102.1 Streptococcus thermophilus bacteriophage Sfi19, complete genome. [26-MAY-2017]	2.6149
+ENA|JQ740790|JQ740790.1 Lactococcus Phage ASCC284, complete genome. [24-FEB-2017]	4.8055
+ENA|JQ740814|JQ740814.1 Lactococcus Phage ASCC544, complete genome. [26-MAY-2017]	7.0342
+ENA|KC182545|KC182545.1 Lactococcus phage fd13, complete genome. [26-MAY-2017]	6.2490
+ENA|AF242738|AF242738.3 Bacteriophage phi LC3, complete genome. [26-MAY-2017]	6.8469
+ENA|FJ848883|FJ848883.1 Lactococcus phage CB14, complete genome. [26-MAY-2017]	8.8280
+ENA|KC182550|KC182550.1 Lactococcus lactis phage P475, complete genome. [26-MAY-2017]	9.0043
+ENA|KC522412|KC522412.1 Lactococcus phage CaseusJM1, complete genome. [26-MAY-2017]	10.1785
+ENA|KC348599|KC348599.1 Streptococcus phage phi30c, complete genome. [26-MAY-2017]	3.3779
