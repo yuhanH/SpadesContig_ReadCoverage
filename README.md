@@ -1,4 +1,4 @@
-# Spades Contig Read Coverage
+ # Spades Contig Read Coverage
 It is built to calculate the coverage of spades *de novo* assembly contigs by remapping raw fastq reads. SPAdes could be found http://cab.spbu.ru/software/spades/
 
 
@@ -29,7 +29,9 @@ output file name: /ifs/home/spades_contig_read_coverage/demo_output/G45047 (the 
 
 R1,R2 fastq files:  /ifs/data/fastq/G45047_pe_1.fastq.gz     /ifs/data/fastq/G45047_pe_2.fastq.gz
 ## Output:
-a output example is in the /demo_output/.
+a output example is in the /demo_output/G45047_phage_cov.txt.
+
+The first column is the annotated phage and the second column is the length-normalized phage abundance. Take the fist row as an example. In these fastq reads, phage jm2 has nearly 5.15 coverage across the entire genome.
 ```
 ENA|KC182546|KC182546.1 Lactococcus phage jm2, complete genome. [26-MAY-2017]   5.1521
 ENA|KC182551|KC182551.1 Lactococcus phage P680, complete genome. [26-MAY-2017]  20.1515
