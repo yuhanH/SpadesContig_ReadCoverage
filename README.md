@@ -1,6 +1,6 @@
 
 # SpadesContig_ReadCoverage
-It is built to calculate the coverage of assembled contigs using raw fastq reads.
+It is built to calculate the coverage of assembled contigs by remapping raw fastq reads.
 
 ## Input
 It has six inputs.
