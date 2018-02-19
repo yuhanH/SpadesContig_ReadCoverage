@@ -1,6 +1,7 @@
   
-# SpadesContig_ReadCoverage
+# Spades Contig Read Coverage
 It is built to calculate the coverage of spades *de novo* assembly contigs by remapping raw fastq reads. SPAdes could be found http://cab.spbu.ru/software/spades/
+
 
 ## Input
 It has six inputs.
@@ -17,7 +18,7 @@ $5: R2 fastq file
 
 $6: threaded number (optional, the default is 4-12)
 
-## demo:
+## Demo:
 ```{bash eval=FALSE}
 sh SCRC_run.sh /ifs/data/spades_contig/G45047-contigs.fasta  /ifs/data//blast_results/G45047-contigs.fasta.blast  /ifs/home/spades_contig_read_coverage/demo_output/G45047  /ifs/data/fastq/G45047_pe_1.fastq.gz  /ifs/data/fastq/G45047_pe_2.fastq.gz
 ```
