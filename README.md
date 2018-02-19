@@ -15,3 +15,6 @@ $5: R2 fastq file
 
 $6: threaded number (optional, the default is 4-12)
 
+
+demo:
+sh SCRC_run.sh /ifs/data/tetzlab/raw/Oct11/spades_contig/G45047-contigs.fasta  /ifs/data/tetzlab/raw/Oct11/blast_results/G45047-contigs.fasta.blast  /ifs/home/yhao2/spades_contig_read_coverage/output/G45047  /ifs/data/tetzlab/raw/Oct11/fastq/G45047_pe_1.fastq.gz  /ifs/data/tetzlab/raw/Oct11/fastq/G45047_pe_2.fastq.gz
