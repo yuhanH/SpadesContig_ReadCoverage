@@ -29,6 +29,9 @@ output file name: /ifs/home/spades_contig_read_coverage/demo_output/G45047 (the 
 
 R1,R2 fastq files:  /ifs/data/fastq/G45047_pe_1.fastq.gz     /ifs/data/fastq/G45047_pe_2.fastq.gz
 ## Output:
-```{bash}
-echo "1"
+a output example is in the /demo_output/.
+```
+ENA|KC182546|KC182546.1 Lactococcus phage jm2, complete genome. [26-MAY-2017]   5.1521
+ENA|KC182551|KC182551.1 Lactococcus phage P680, complete genome. [26-MAY-2017]  20.1515
+ENA|KC182552|KC182552.1 Lactococcus phage phi7, complete genome. [26-MAY-2017]  6.7325
 ```
